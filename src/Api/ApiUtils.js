@@ -1,6 +1,6 @@
 import axios from "axios";
 import LocalStorage from "./LocalStorage";
-const API_URL = "http://8d59-103-250-139-223.ngrok.io/";
+const API_URL = "https://sameteam.api.openxcell.dev/";
 
 const ApiUtils = {
     // login
@@ -9,7 +9,7 @@ const ApiUtils = {
             'Content-Type': 'application/json',
             'Access-Control-Allow-Origin': '*'
         };
-        return axios.post(API_URL + "v1/user/login", payload, {
+        return axios.post(API_URL + "sameteam-api/admin/login", payload, {
             headers: headers,
         })
             .then(response => {

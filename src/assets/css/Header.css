@@ -175,15 +175,158 @@ a:hover {
 	width: 20px;
 }
 
+.input-classname .ant-input
+{
+	width: 1272px;
+	margin-top: 65px;
+	margin-left: 11px;
+}
+
+.august-30{
+    font-size: 20px;
+    color: grey;
+    font-family: 'NunitoSans Bold';
+    margin-left: 6px;
+    margin-top: 15px;
+}
+.praeetk-border
+{
+    width: 100%;
+    border-bottom: 2px solid grey;
+}
+
+.inputfiledperfex .ant-input-prefix {
+    margin-right: 0;
+    margin-left: 0;
+}
+.david-inputclass {
+    height: 35px;
+    width: 35px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.Prefixplace .ant-input, .Prefixplace .ant-input:placeholder-shown {
+    background-color: transparent!important;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+.ant-input-affix-wrapper>input.ant-input {
+    padding-left: 10px!important;
+    font-size: 14px;
+    font-family: "DMSans-Medium";
+}
+
+.like {
+	height: 16px;
+    margin-right: 5px;
+    margin-bottom: 13px;
+}
+
+.chatbox1 {
+	margin-top: 10px;
+}
+
+.inputfiledperfex .ant-input-suffix {
+    margin-left: 0;
+    background-color: transparent!important;
+    margin-right: 5px;
+    border-radius: 50%;
+}
+
+.inputfiledperfex .ant-input-affix-wrapper {
+    padding: 0!important;
+    border-radius: 19px!important;
+    border: none!important;
+    background: hsla(0,0%,92.2%,.6);
+}
+
+/* .ant-input:hover {
+    border-color: #000 !important;
+    border-right-width: 1px !important;
+	border-top-color: #000 !important;
+	border-top: none !important;
+    border-left: none !important;
+} */
+
+
+.inputfiledperfex .ant-input-affix-wrapper:focus, .ant-input-affix-wrapper-focused {
+    -webkit-box-shadow: 0 0 0 2px transparent !important;
+    box-shadow: 0 0 0 2px transparent !important;
+}
+
+.button-input-field .ant-input:focus,.ant-input:hover {
+    border-color: #000 !important;
+	border-top: none !important;
+    border-left: none !important;
+	-webkit-box-shadow: 0 0 0 2px transparent;
+    box-shadow: 0 0 0 2px transparent;
+}
+
+
+.inputfiledperfex {
+    width: 100%;
+	margin-bottom: 10px;
+	margin-left: 11px;
+    margin-top: 10px;
+}
+
+.yo-thank-you
+{
+    font-size: 20px;
+    color: black;
+    font-family: 'NunitoSans Bold';
+    margin-top: 0px;
+}
+.prateek-sengar
+{
+	font-size: 20px;
+    color: black;
+    font-family: 'NunitoSans Bold';
+    margin-top: 15px;
+}
+
+.email-address-design{
+	font-size: 20px;
+    color: grey;
+    font-family: 'NunitoSans Bold';
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.button-class-for-tweet .ant-btn
+{
+	background-color: #52B7F5;
+    border: none!important;
+    color: #fff!important;
+  
+    border-radius: 30px!important;
+    width: 94px;
+    height: 40px!important;
+}
+.button-class-for-tweet .ant-btn:hover, .ant-btn:focus, .ant-btn:active {
+    background-color: #52B7F5;
+    border: none!important;
+    color: #fff!important;
+  
+    border-radius: 30px!important;
+    width: 94px;
+    height: 40px!important;
+}
+
 a.navbar-brand {
 	width: 165px;
+}
+
+.Tweet{
+color:black;
+font-size: 20px;
 }
 
 .sidebar {
 	/* width: 230px; */
 	/* width: 3000px; */
 	border-right: 1px solid #e2eafd;
-	width: 282px;
+	width: 166px;
 	margin: 1px 0;
 	padding: 4px 0 0px;
 	background-color: #fff;
@@ -246,7 +389,13 @@ a.navbar-brand {
 }
 
 /* Main Class */
-
+.whats-happening
+{
+    font-size: 22px;
+    margin-top: 12px;
+    margin-left: 10px;
+    font-family: 'NunitoSans Bold';
+}
 .navbar {
 	position: relative;
 	display: flex;
@@ -255,7 +404,7 @@ a.navbar-brand {
 }
 
 .logo-of-same {
-	width: 184px;
+
 	height: 31.1px;
 	margin: 3px 38.9px 4.9px 0;
 	object-fit: contain;
@@ -274,6 +423,38 @@ a.navbar-brand {
 	display: flex;
 	flex-wrap: wrap;
 }
+
+.button-class-for-tweet{
+    margin-top: 53px;
+}
+.button-input-field
+{
+	margin-top: 55px;
+	margin-left: 16px;
+	margin-right: 24px;	
+}
+
+.button-input-field .ant-input {
+	width: 1222px;
+	height: 36px;
+	margin: 1px 0px 2px 0.1px;
+	padding: 7px 0px 7px 18px;
+
+	border-top: none !important;
+    border-left: none !important;
+    border-bottom-color: black;
+    border-right: none !important;
+	background-color: #f3f5fa;
+}
+
+.button-input-field .ant-input:placeholder-shown {
+	font-family: 'NunitoSans Regular';
+	font-size: 16px;
+	line-height: 1.38;
+	color: #000;
+}
+
+
 
 .serach-input .ant-input {
 	width: 278px;

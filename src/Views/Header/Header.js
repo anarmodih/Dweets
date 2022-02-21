@@ -9,6 +9,12 @@ import logoSecon from "../../assets/images/Twiiter-logo.jpg";
 import home from "../../assets/images/home.png";
 import homew from "../../assets/images/home-w.png";
 
+import users from "../../assets/images/users.png";
+import userw from "../../assets/images/users-w.png";
+
+
+import { Input, Button } from 'antd';
+
 let axiosInterceptor = null;
 const AuthRouter = ({ component: Component, ...rest }) => {
    if (!!axiosInterceptor || axiosInterceptor === 0) {
@@ -76,24 +82,19 @@ class Header extends Component {
                <nav>
                   <div className="main-class">
                      <div className="d-flex mr-auto">
-                        {this.state.toggle === false ? <div className="">
+                        <div className="">
                            <img src={logoSecon} className="logo-of-same" alt=""></img>
-                        </div> : <div className="">
-                        </div>}
-                       
-                        {/* <div className="serach-input">
+                        </div>
+
+                        <div className="serach-input">
                            <Input
                               placeholder="Serach"
                               className="serach-input"
                            />
-                        </div> */}
+                        </div>
                      </div>
                      <div className="Sidebar-header-main">
-                        <div className="image-clas">
-                           {/* {console.log("Proife",profile_picture)}   */}
-                           {/* <img src={notify} className="notification-header" alt=""></img>
-                           <img src={user && user.profile_picture} className="profile-header" alt=""></img> */}
-                        </div>
+                       
 
                         <div className="Dropdo-Respo">
                            <div className="settings-icon-container float-right">
@@ -124,18 +125,22 @@ class Header extends Component {
 
             <div class="main">
                <div class="d-flex">
-                  {this.state.toggle === false ?
+                 
                      <div className="sidebar">
                         <div className={this.isPathActive('/dashboard') ? 'side-nav-item-active' : 'side-nav-item'}>
                            <Link to="/dashboard">
                               <img alt="" src={this.isPathActive('/dashboard') ? homew : home} class={this.isPathActive('/dashboard') ? "active-white-icon" : "img-briefcase"}></img>
-                              <span>Dashboard</span>
+                              <span>Home</span>
+                           </Link>
+                        </div>
+                        <div className={this.isPathActive('/profile') ? 'side-nav-item-active' : 'side-nav-item'}>
+                           <Link to="/profile">
+                              <img alt="" src={this.isPathActive('/profile') ? userw : users} class={this.isPathActive('/profile') ? "active-white-icon" : "img-briefcase"}></img>
+                              <span>Profile</span>
                            </Link>
                         </div>
                      </div>
-                     : <div>
-
-                     </div>}
+                   
                   <div class="side-content">
                      <Switch>
                         {routes.map((route, idx) => {
