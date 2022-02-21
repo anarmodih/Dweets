@@ -6,19 +6,8 @@ import routes from './Routes';
 import axios from 'axios';
 import Api from '../../Api/ApiUtils';
 import logoSecon from "../../assets/images/logo.png";
-import toogle from "../../assets/images/feather-menu.png";
 import home from "../../assets/images/home.png";
 import homew from "../../assets/images/home-w.png";
-import reportw from "../../assets/images/reportw.png";
-import report from "../../assets/images/report.png";
-import uservalue from "../../assets/images/users.png";
-import userw from "../../assets/images/users-w.png";
-import emaillogo from "../../assets/images/emaillogo.png";
-import emailw from "../../assets/images/emailw.png";
-import contentlogo from "../../assets/images/contentlogo.png";
-import paymenttrans from "../../assets/images/Payment-trans.png";
-import paymentwhite from "../../assets/images/Payment-white.png";
-import contentw from "../../assets/images/contentw.png";
 
 let axiosInterceptor = null;
 const AuthRouter = ({ component: Component, ...rest }) => {
@@ -30,7 +19,7 @@ const AuthRouter = ({ component: Component, ...rest }) => {
    }, function (error) {
       console.log("TOKEN NI ERRROR", error.response)
       if (error.response.status === 401) {
-         let localData = JSON.parse(localStorage.getItem('Super_Admin'));
+         let localData = JSON.parse(localStorage.getItem('Dweets'));
          let payload = {
             token: localData.refresh_token
          }
@@ -38,7 +27,7 @@ const AuthRouter = ({ component: Component, ...rest }) => {
             .then((res) => {
                if (res.data.data) {
                   window.location.reload();
-                  localStorage.setItem("Super_Admin_token", JSON.stringify(res.data.data.token))
+                  localStorage.setItem("Dweets_token", JSON.stringify(res.data.data.token))
                }
                else {
 
@@ -66,7 +55,7 @@ const AuthRouter = ({ component: Component, ...rest }) => {
       <div>
          <Route {...rest} render={props => (
             (
-               localStorage.getItem('Super_Admin_token') != null
+               localStorage.getItem('Dweets_token') != null
             )
                ? <Component {...props} /> : (
                   <Redirect to={{
@@ -87,7 +76,7 @@ class Header extends Component {
    }
 
    componentDidMount() {
-      LocalStorage.getItem("Super_Admin").then(user => {
+      LocalStorage.getItem("Dweets").then(user => {
          this.setState({ user: user, profile_picture: user.profile_picture, loader: false })
       });
    }
@@ -123,13 +112,7 @@ class Header extends Component {
                            <img src={logoSecon} className="logo-of-same" alt=""></img>
                         </div> : <div className="">
                         </div>}
-                        {this.state.toggle === false ?
-                           <div className="image-clas" onClick={() => { this.togglechange() }}>
-                              <img src={toogle} className="toggle-image" alt=""></img>
-                           </div> :
-                           <div className="image-clas" onClick={() => { this.oncollpase() }}>
-                              <img src={toogle} className="toggle-image-collpase" alt=""></img>
-                           </div>}
+                       
                         {/* <div className="serach-input">
                            <Input
                               placeholder="Serach"
@@ -156,8 +139,8 @@ class Header extends Component {
                                           <Link to="/" className="dropdown-item">
                                              <span className="Logout"
                                                 onClick={() => {
-                                                   localStorage.removeItem('Super_Admin');
-                                                   localStorage.removeItem('Super_Admin_token');
+                                                   localStorage.removeItem('Dweets');
+                                                   localStorage.removeItem('Dweets_token');
                                                 }}>Logout</span></Link>
                                        </span>
                                     </div>
@@ -181,20 +164,9 @@ class Header extends Component {
                               <span>Dashboard</span>
                            </Link>
                         </div>
-
-                        <div className={this.isPathActive('/superadmin') ? 'side-nav-item-active' : 'side-nav-item'}>
-                           <Link to="/superadmin">
-                              <img alt="" src={this.isPathActive('/superadmin') ? userw : uservalue} class={this.isPathActive('/superadmin') ? "active-white-icon" : "img-briefcase"}></img>
-                              <span>Admin Management</span>
-                           </Link>
-                        </div>
-
-                     
-                       
                      </div>
-
                      : <div>
-                       
+
                      </div>}
                   <div class="side-content">
                      <Switch>

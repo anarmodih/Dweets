@@ -57,8 +57,8 @@ class SignupPage extends Component {
         .then((response) => {
           console.log("Login Response", response)
           if (response.data) {
-            LocalStorage.setItem("Super_Admin", JSON.stringify(response.data.data)).then(fulfilled => {
-              LocalStorage.setItem("Super_Admin_token", JSON.stringify(response.data.data.token)).then(success => {
+            LocalStorage.setItem("Dweets", JSON.stringify(response.data.data)).then(fulfilled => {
+              LocalStorage.setItem("Dweets_token", JSON.stringify(response.data.data.token)).then(success => {
                 toast.success("Login successfully");
                 this.props.history.push("/dashboard");
               });
