@@ -18,15 +18,12 @@ class SignupPage extends Component {
     this.state = {
       loader: false,
       username: "",
-      hidden: true,
-      dialCode: '',
       phone: '',
       dialCode: '',
       pNo: '',
       email: '',
       password: '',
       confirm_password: '',
-
       hidden: true,
       hidden1: true,
       passnotmatch: false,

@@ -5,7 +5,7 @@ import LocalStorage from '../../Api/LocalStorage';
 import routes from './Routes';
 import axios from 'axios';
 import Api from '../../Api/ApiUtils';
-import logoSecon from "../../assets/images/logo.png";
+import logoSecon from "../../assets/images/Twiiter-logo.jpg";
 import home from "../../assets/images/home.png";
 import homew from "../../assets/images/home-w.png";
 
@@ -18,36 +18,6 @@ const AuthRouter = ({ component: Component, ...rest }) => {
       return response;
    }, function (error) {
       console.log("TOKEN NI ERRROR", error.response)
-      if (error.response.status === 401) {
-         let localData = JSON.parse(localStorage.getItem('Dweets'));
-         let payload = {
-            token: localData.refresh_token
-         }
-         Api.getRefreshToken(payload)
-            .then((res) => {
-               if (res.data.data) {
-                  window.location.reload();
-                  localStorage.setItem("Dweets_token", JSON.stringify(res.data.data.token))
-               }
-               else {
-
-               }
-            })
-            .catch(function (err) {
-               console.log("Errr", err)
-               if (err) {
-
-               }
-               else {
-
-               }
-
-            }
-            );
-      }
-      else {
-         return error.response;
-      }
    });
 
 
@@ -99,9 +69,7 @@ class Header extends Component {
    }
 
    render() {
-
       const { user } = this.state;
-
       return (
          <div>
             <header className="header">
