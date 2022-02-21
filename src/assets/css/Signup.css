@@ -1,0 +1,237 @@
+.err-message-email
+{
+color: red;
+}
+.section-signuppage {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    background-color: #fff;
+}
+.branch-wrapper-signpage {
+    padding-top: 148px;
+    padding-right: 276.5px;
+    padding-left: 110px;
+    padding-bottom: 51px;
+}
+.email-address-input-field-signpage
+{
+    height: 56px !important;
+   margin-bottom: 30px !important;
+    border-radius: 6px !important; 
+}
+.signin-button-signpage
+{
+    width:100%;
+    height: 60px !important;
+    margin-top:10px;
+    padding: 19px 180px 14px 178px;
+    border-radius: 6px !important;
+    background-color: #296ce7 !important;
+}
+.sign-signpage{
+  
+    font-family: 'NunitoSans SemiBold';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #fff;
+}
+.mrt-3
+{
+    margin-right:-3px !important;
+}
+.forgot-password-text-login a:active{
+    color: #333 !important;
+    cursor: pointer;
+}
+
+.forgot-password-text-login a{
+    color: #333 !important;
+    cursor: pointer;
+}
+
+
+.forgot-password-text-login {
+   
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 1.36;
+    color: #333;
+  }
+  
+.password-input-field-loginpage
+{
+    height: 56px !important; 
+    margin-bottom: 30px !important;
+    border-radius: 6px !important;
+}
+.branch-wrapper-signpage h1{
+    
+    font-family: 'NunitoSans SemiBold';
+    font-size: 36px;
+    line-height: 1.36;
+    color: #000;
+    margin-bottom: 0px;
+}
+.form-page-login
+{
+    margin-left:110px;
+    margin-right: 110px;
+}
+.email-address-login
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #313131;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.password-loginpage
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #313131;
+    margin-bottom: 10px;
+    display: inline-block;
+    margin-top: 26px;
+}
+.logo-loginpage
+{
+    padding-bottom: 38.1px;
+}
+.login-carousel .carousel .thumbs-wrapper {
+    margin: 20px;
+    overflow: hidden;
+    display: none;
+}
+.image-background-color-loginpage
+{
+    background-color: #0055c1;
+    height: 100vh;
+    /* position: fixed; */
+    max-width: 100%;
+    width: 100%;
+}
+.image-scorll-loginpage
+{
+    width: 614.1px !important;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 96px;
+
+}
+.Stay-Organized
+{
+    font-family:'Inter Bold';
+    font-size: 40px;
+    line-height: 1.23;
+    color: #fff;
+    margin-bottom: 23px;
+    margin-top: 29px;
+}
+.Save-time {
+    font-family: 'Inter Regular';
+    font-size: 20px;
+    line-height: 1.5;
+    color: #fff;
+  }
+  .login-carousel .carousel .control-dots {
+    margin: 56px 0 !important;
+  }
+  .tag-login
+  {
+    margin-top: 80px;
+    text-align: start;
+    margin-left: 15px;
+    margin-bottom: 12px;
+    font-family: 'NunitoSans Regular';
+    font-size: 12px;
+    line-height: 1.33;
+    color: #fff;
+  }
+
+  .login-carousel .carousel .control-dots .dot.selected, .carousel .control-dots .dot:active {
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 5px 0 0 !important;
+    width: 24px !important;
+    height: 8px !important;
+    border-radius: 4px !important;
+    background:white !important;
+}
+
+.login-carousel .carousel .control-dots .dot {
+    cursor: pointer;
+    display: inline-block;
+    width: 14px !important;
+    height: 8px !important;
+    margin: 0 5px 0 0 !important;
+    opacity: 0.5;
+    border-radius: 4px !important;
+  }
+
+  .login-carousel .carousel.carousel-slider .control-arrow {
+   display: none;
+   
+}
+.login-carousel .carousel .carousel-status {
+ display: none;
+  
+}
+@media(max-width:1383px)
+{
+    .image-scorll-loginpage {
+     
+        padding-top: 49px;
+        width: 100% !important;
+    }
+    .branch-wrapper-signpage {
+        padding-top: 42px;
+     }
+}
+
+@media(max-width:1024px)
+{
+    .branch-wrapper-signpage {
+        padding-right: 10px;
+        padding-left: 10px;
+     }
+     .form-page-login {
+        margin-left:10px;
+        margin-right:10px;
+    }
+    .Stay-Organized {
+        font-size: 25px;
+    }
+    .Save-time {
+        font-size: 16px;
+        }
+    
+}
+@media(max-width:767px)
+{
+
+    .image-background-color-loginpage
+{
+    height: auto;
+  }
+    .signin-button-signpage {
+        margin-bottom: 10px !important;
+     }
+
+
+    .image-scorll-loginpage {
+        width: 78% !important;
+        padding-top: 26px;
+    }
+    
+    .branch-wrapper-signpage {
+        padding-top: 34px;
+     }
+}

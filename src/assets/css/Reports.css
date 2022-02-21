@@ -1,0 +1,382 @@
+.Reports-Page {
+    font-family: 'NunitoSans Bold';
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1.35;
+    color: #000;
+  }
+  .mr-11
+  {
+    margin-bottom: 11px;
+  }
+  .Day {
+    margin: 0px 0px 0px 0px;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 2.5;
+    color: #333;
+  }
+ .Dashsbord-First-Men
+ {
+    font-family: 'NunitoSans SemiBold';
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.89;
+    color: #333;
+ }
+ .Reports-TitleHere
+ {
+    margin-bottom: 25px;
+    font-family: 'NunitoSans Bold';
+    font-size: 22px;
+    line-height: 1.36;
+    color: #000;
+ }
+ .mr-bottom-26
+ {
+margin-bottom: 26px;
+ }
+
+ /* DAY */
+  .Reports-Day-Week-Buttons .Reports-Day-Blue-White
+  { 
+    height: 40px;
+   padding: 0 14px 0 14px;
+    border-radius: 5px;
+    background-color: #f3f5fa;
+  }
+  .Reports-Day-Week-Buttons .Dash-Day-Buttons-Blue
+  {
+    height: 40px;
+   padding: 0 14px 0 14px;
+    border-radius: 5px;
+   background-color: #296ce7 !important;
+  }
+  .Reports-Day-Week-Buttons .Dash-Day-Buttons-Blue .ant-btn:hover, .ant-btn:focus {
+   /* background-color: #296ce7; */
+}
+.Reports-Download-buttons .Reports-Day-Buttons-white
+{ 
+  border-radius: 5px;
+  width: 126.2px;
+  cursor: pointer;
+  height: 48px;
+  margin: 26px 13.8px 16px 0px;
+  padding: 13px 13.2px 13px 13px;
+  border: solid 1px #bed5ff;
+  background-color: #f3f5fa;
+}
+.Reports-Download-buttons .Reports-Day-Buttons-print
+{ 
+  border-radius: 5px;
+  width: 126.2px;
+  height: 48px;
+  margin: 26px 0px 16px 0px;
+  padding: 13px 13.2px 13px 13px;
+  border: solid 1px #bed5ff;
+  background-color: #f3f5fa;
+}
+
+.Report-Day-Black {   
+  margin: 0px 0px 0px 0px;
+  font-family: 'NunitoSans Regular';
+  font-size: 16px;
+  line-height: 2.5;
+  color: #333;
+}
+.Day-Download-Button {   
+  font-family: 'NunitoSans Bold';
+  margin: 0 0 0 10px;
+  font-size: 16px;
+  line-height: 1.38;
+  color: #296ce7;
+}
+.Report-Day-white {   
+  margin: 0px 0px 0px 0px;
+  font-family: 'NunitoSans Regular';
+  font-size: 16px;
+  line-height: 2.5;
+  color:white;
+}
+/* Day Comman end */
+  .Basic-Premium-Report
+  {
+    margin-right: 33px;
+
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 2.86;
+    color: #333;
+  }
+  .Basic-teams-Report
+  {
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 2.86;
+    color: #333;
+    margin-right: 46px;
+  }
+  .Dashbord-Progress-Report .ant-progress-line {
+    margin-top: 13px; 
+}
+.Dashbord-Progress-Report {
+  position: relative;
+  width: 100% ;
+  font-size: 15px;
+}
+   .mr-26
+   {
+    margin-bottom: 26px;
+   }
+   .mr-20
+{
+  margin-bottom: 20px;
+}
+.mlt-4
+{
+  margin-left: 0px;
+}
+ 
+.Pie-Chart-Number
+{
+  
+  height: 208px;
+  border-radius: 5px;
+  margin: 0 0 0 0px;
+  padding: 13px 0px 0px 21px;
+  border: solid 1px #ebebeb;
+  background-color: #fff;
+}
+.Pie-Chart-Second
+{
+
+  height: 208px;
+  border-radius: 5px;
+  margin: 0 0 0 0px;
+  padding: 13px 0px 0px 21px;
+  border: solid 1px #ebebeb;
+  background-color: #fff;
+}
+.Pie-Chart-third
+{
+ 
+  height: 208px;
+  border-radius: 5px;
+  margin: 0 0 0 0px;
+  padding: 13px 0px 0px 21px;
+  border: solid 1px #ebebeb;
+  background-color: #fff;
+}
+.Pie-Tootal
+{
+  width: 100%;
+  height: 255px;
+  border-radius: 5px;
+  margin: 0 0 0 0px;
+  padding: 13px 20px 0px 21px;
+  border: solid 1px #ebebeb;
+  background-color: #fff;
+}
+/* Reports  */
+  .Reports-main-border
+  {
+    width: 100%;
+  
+    margin: 18px 20px 14px 0px;
+    background-color: #fff;
+    padding-bottom: 8px;
+  }
+
+  .Reports-Submitton
+  {
+    width: 100%;
+    height: 683px;
+    margin: 18px 20px 14px 0px;
+    background-color: #fff;
+  }
+  .Summary-Borders
+  {
+padding-top:31px;
+padding-left:26px;
+padding-right: 25px;
+  }
+ .Summary-text
+ {
+    margin: 6px 0px 38px 0;
+    font-family: 'NunitoSans Bold';
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.36;
+    color: #000;  
+ }
+ .Custom-Report
+ {
+  width: 143px;
+  height: 48px;
+  border-radius: 6px;
+  background-color: #f3f5fa;
+ }
+ .Custom-Report-text{
+  display: block;
+  font-family: 'NunitoSans Bold';
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.38;
+  color: #296ce7;
+  margin-top: 13px;
+  margin-bottom: 13px;
+  margin-left: 16px;
+ }
+ .Custom-Report-Submit
+ {
+  float: right;
+  height: 49px;
+  margin: 0 0px 0px 31px;
+  padding: 14px 44px 13px 45px;
+  border-radius: 3px;
+  background-color: #296ce7;
+  cursor: pointer;
+ }
+ .Custom-Report-text-Submit{
+  
+  font-family: 'NunitoSans Bold';
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.38;
+  color: #fff;
+  display: block;
+ }
+.Report-DropDown-Property .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+  position: relative;
+  transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+  height: 49px;
+  margin: 0 0px 23px 0px;
+  padding: 10px 9.9px 11px 13px;
+  border-radius: 2px;
+  border: solid 1px #e0e0e0;
+  background-color: #fff;
+
+}
+.Report-DropDown-Property 
+.ant-select-single.ant-select-show-arrow 
+.ant-select-selection-item, 
+.ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+  padding-right: 0px;
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    color: #333;
+}
+.mr-15
+{
+  margin-bottom: 15px;
+}
+
+.mr-30
+{
+  margin-bottom: 30px;
+}
+.Report-DropDown-Property 
+.ant-select-arrow {
+  top: 35%;
+  right: 11px;
+  width: 12px;
+  height: 12px;
+}
+
+.Date-picker-class .ant-picker-range {
+  position: relative;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  padding: 13px 14.7px 12px 14px;
+  border-radius: 2px;
+  border: solid 1px #e0e0e0;
+  background-color: #fff;
+
+  height: 49px;
+  margin: 0 0px 0px 23px;
+  width: 100%;
+}
+.Reports-Summary-borders
+{
+margin-left:93px;
+margin-right: 71px;
+margin-top:36px;
+margin-bottom: 49px;
+}
+.footer-styling-Reports
+{
+    margin: 21px 0px 12px 0px;
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 12px;
+    line-height: 1.33;
+    color: #000;
+}
+.styling-for-hr-class
+{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.Color-Code-Grey-Claass
+{
+  width: 100%;
+  margin: 16px 0px 0 0px;
+  padding: 32px 24px 16px 28px;
+  background-color: #f6f6f6;
+}
+.Reports-table .ant-table-column-sorters {
+  padding: 16px 20px;
+}
+.Reports-table 
+.ant-table-tbody > tr > td, .ant-table tfoot > tr > th, .ant-table tfoot > tr > td {
+ 
+  padding: 16px 20px;
+  
+}
+
+.Reports-table .ant-table-container table > thead > tr th {
+  border-top-left-radius: 2px;
+  height: 22px;
+  margin: 0 7.2px 16px 20px !important;
+  font-family: 'NunitoSans Bold';
+  font-size: 16px;
+  font-weight: bold;
+  
+  line-height: 1.38;
+ 
+  color: #333;
+}
+
+.Reports-table td.ant-table-column-sort {
+  background: white;
+}
+.Reports-table .ant-table-pagination.ant-pagination {
+ display: none;
+}
+
+.Reports-table .ant-table-thead > tr > th {
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+ 
+  background: white;  
+}
+.Reports-table .ant-table-thead th.ant-table-column-has-sorters:hover {
+  background: white;
+}
+.Reports-table .ant-table-tbody > tr.ant-table-row:hover > td {
+  background: white;
+}
+.canvasjs-chart-credit
+{
+display: none;
+}
+.canvasjs-chart-canvas
+{
+  height: 117px;
+}
+#canvasjs-react-chart-container-7
+{
+  width: 31% !important;
+  position: relative;
+  height: 129px !important;
+}

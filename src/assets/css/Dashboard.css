@@ -1,0 +1,394 @@
+
+ .inactive-users
+ {
+  width: 48px;
+  height: 46px;
+   margin-top: 9px;
+ }
+
+ .all-borders
+{
+    margin: 0 8px 0px 0px;
+    padding: 3px 11px 5px 12px;
+    border-radius: 4px;
+    background-color: #fff3db;
+}
+.text-for-all
+{   
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 1.36;
+    color: #5b5b5b;
+}
+ .antd-pro-charts-pie-pie .antd-pro-charts-pie-legend {
+  min-width: 218px !important;
+  margin: 0 5px !important;
+}
+.antd-pro-charts-pie-pie .antd-pro-charts-pie-percent {
+  margin-right: 16px !important;
+}
+
+ .mt-10
+ {
+  margin-top: 13px;
+ }
+
+ .Events-Cards-PieChart {
+  height: auto;
+  margin: 20px 0px 0px 0px;
+  padding: 14px 16px 17px 14px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.radiostyling{
+  padding:20px;
+}
+
+
+ .charttitle{
+
+  /* color: black; */
+  font-size: 20px;
+  font-family: 'NunitoSans Bold';
+  text-align: center;
+  font-weight: 700;
+}
+
+ .inactive-client
+ {
+  width: 50px;
+      height: 41px;
+  margin-top: 9px;
+ }
+ .inactive-admin
+ {
+  width: 45px;
+  height: 46px;
+  margin-top: 9px;
+ }
+
+.Main-page-Dashbaord {
+    font-family: 'NunitoSans Bold';
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1.35;
+    color: #000;
+  }
+  .mr-11
+  {
+    margin-bottom: 11px;
+  }
+  .Day {
+    margin: 0px 0px 0px 0px;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 2.5;
+    color: #333;
+  }
+ .Dashboard-Border-Buttons  .ant-btn{
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    width: 70px !important;
+    height: 26px !important;
+ }
+ .Dashboard-View-All {
+    opacity: 0.5;
+    font-family: 'NunitoSans SemiBold';
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.33;
+    color: #333;
+  }
+
+  .Dashboard-View-All  .ant-select-single.ant-select-show-arrow .ant-select-selection-search {
+    right: 25px;
+    color: #bfbfbf;
+    margin: -2px 9px 0 0;
+     font-family: 'NunitoSans SemiBold';
+     font-size: 12px;
+     line-height: 3.33;
+     color: #333;
+  }
+
+  .mr-37
+  {
+margin-bottom: 37px;
+  }
+  .Dashboard-new-year
+  {
+    width: 28px;
+    height: 28px;
+  }
+  .New-Year-Sales-Dashboards{
+    margin: 3px 0 2px 11px;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #333;
+}
+
+  .Dashbord-Running-Text
+  {
+       
+        font-family:'NunitoSans Regular';
+        font-size: 14px;
+        line-height: 1.36;
+        color: #7667f4;
+  }
+
+  .Dashbord-Run .ant-btn{
+  
+    width: 73px;
+    height: 30px;
+    padding: 1px 6px;
+    border-radius: 5px;
+    background-color: #e9e6ff;
+ }
+ .Dashbord-Runed .ant-btn
+ {
+  width: 73px;
+  height: 30px;
+  padding: 1px 6px;
+  border-radius: 5px;
+  background-color: #e9e6ff;
+ }
+.Dashabord-Date-Time
+{
+  width: 86px;
+  height: 22px;
+  font-family: 'NunitoSans Regular';
+  font-size: 16px;
+  line-height: 1.38;
+  color: #333;
+}
+ .Dashsbord-First-Men
+ {
+
+    font-family: 'NunitoSans SemiBold';
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.89;
+    color: #333;
+ }
+ .First-Boards-Numbers
+ {
+    
+    /* width: 800px; */
+    /* height: 317px;
+
+    margin: 30px 30px 29px 20px;
+    padding: 19px 20px 101px;
+    border-radius: 10px;
+    background-color: #fff; */
+
+    height: 321px;
+    margin: 30px 1px 30px 0px;
+    padding: 19px 20px 20px;
+    border-radius: 10px;
+    background-color: #fff;
+
+
+ }
+ .mr-bottom-26
+ {
+margin-bottom: 26px;
+ }
+
+ /* DAY */
+  .Dashboard-Button-Day-Week .Dash-Day-Button-White
+  { 
+    height: 40px;
+   padding: 0 14px 0 14px;
+    border-radius: 5px;
+  background-color: #fff;
+  }
+  .Dashboard-Button-Day-Week .Dash-Day-Buttons-Blue
+  {
+    height: 40px;
+   padding: 0 14px 0 14px;
+    border-radius: 5px;
+   background-color: #296ce7 !important;
+  }
+  .Dashboard-Button-Day-Week .Dash-Day-Buttons-Blue .ant-btn:hover, .ant-btn:focus {
+   /* background-color: #296ce7; */
+}
+.Day-black {   
+  margin: 0px 0px 0px 0px;
+  font-family: 'NunitoSans Regular';
+  font-size: 16px;
+  line-height: 2.5;
+  color: #333;
+}
+.Day-white {   
+  margin: 0px 0px 0px 0px;
+  font-family: 'NunitoSans Regular';
+  font-size: 16px;
+  line-height: 2.5;
+  color:white;
+}
+/* Day Comman end */
+
+  .mr-35
+  {
+      margin-bottom: 35px;
+  }
+  .direct {
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #333;
+  }
+
+  .Basic-Enterprise
+  {
+    margin-right: 28px;
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 2.86;
+    color: #333;
+  }
+  .mr-31
+  {
+    margin-bottom: 31px;
+  }
+  .Basic-Premium
+  {
+    margin-right: 33px;
+
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 2.86;
+    color: #333;
+  }
+  .Basic-teams
+  {
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 2.86;
+    color: #333;
+    margin-right: 46px;
+  }
+  .erin-shi
+  {
+    margin: 3px 0 2px 8px;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #333;
+  }
+  .Dashboard-Progres-line .ant-progress-line {
+    margin-top: 13px; 
+    
+}
+.Dashboard-Progres-line {
+  position: relative;
+  width: 100% ;
+  font-size: 15px;
+}
+   .mr-26
+   {
+    margin-bottom: 26px;
+   }
+  .Basic-text
+  {
+    margin-right: 53px;
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 2.86;
+    color: #333;
+  } 
+  /* .ant-progress-success-bg, .ant-progress-bg {
+    position: relative;
+    width: 150px  !important;
+    height: 6px  !important;
+    border-radius: 25px  !important;
+    background-color: #6fc0f7 !important;
+    -webkit-transition: all 0.4s cubic-bezier(0.08, 0.82, 0.17, 1) 0s;
+    transition: all 0.4s cubic-bezier(0.08, 0.82, 0.17, 1) 0s;
+} */
+
+    .First-Boards-Numbers-progress
+{
+  margin: 0px 0px 1px 0px;
+    height: 255px; 
+    padding: 18px 18px 27px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.First-Boards-Numbers-active
+{
+  margin: 0px 0px 29px 0px;
+ 
+  height: 255px;
+  padding: 18px 18px 27px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.First-Boards-Numbers-customs
+{
+  margin: 0px 0px 29px 0px;
+ 
+  height: 255px;
+  padding: 18px 18px 27px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+  .rectangle-3
+  {
+    /* width: 425px; */
+    height: 321px;
+    margin: 30px 1px 30px 0px;
+    padding: 19px 20px 20px;
+    border-radius: 10px;
+    background-color: #fff;
+  }
+  .Rectabngle-right
+  {
+  /* margin-right: 30px !important;   */
+  }
+.Rectangle {
+    /* width: 293px; */
+    height: 152px;
+    margin: 20px 0px 0px 0px;
+    padding: 14px 16px 17px 14px;
+    border-radius: 10px;
+    background-color: #fff;
+  }
+  .On-board-members {
+  
+    font-family: 'NunitoSans SemiBold';
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 2.43;
+    color: #333;
+  }
+  .digits
+  {
+    font-family: 'NunitoSans Bold';
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 0.85;
+    margin-top:8px;
+    margin-bottom: 21px;
+    color: #333;
+  }
+  .last-week
+  {
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 2.43;
+    color: #333;
+    margin-left: 9px;
+  }
+  .review-counts-number
+  {
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 2.43;
+    color: #333;
+    margin: 22px 24.8px 0 6.7px;
+  }

@@ -1,0 +1,176 @@
+
+.Completed-text-form-Promtions
+{
+    width: 78px;
+    height: 26px;
+    padding: 3px 5px 4px;
+    border-radius: 4px;
+    background-color: #ece0fe;
+}
+.Class-Completed-text
+{
+    width: 68px;
+    height: 19px;
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 1.36;
+    color: #296ce7;
+}
+.promotions-switch .ant-switch
+{
+    margin-left: 10px !important;
+}
+.Promotions-Based-Modules
+.ant-select {
+    margin-right: 20px;
+}
+.Promtions-Add-Plan-Promo
+{
+        font-family: 'NunitoSans Bold';
+    font-size: 13px;
+    font-weight: bold;
+   
+    color: #fff;
+    margin-left: 5px;
+    
+}
+ .Promitons-Day-Week-Price-buttons .ant-btn {
+    height: 40px;
+    border-radius: 6px;
+    padding: 11px 9px 10px;
+    background-color: #296ce7;
+}
+.Promitons-Day-Week-Price-buttons  .ant-btn:hover, .ant-btn:focus {
+    background-color: #296ce7;
+}
+
+.Promotions-Based-Modules .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    position: relative;
+    background-color: #fff;
+    border: 1px solid white !important;
+    border-radius: 6px !important;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    width: 100%;
+    height: 38px !important;
+    padding: 6px 11px 0px 10px !important;
+
+}
+
+.Promotions-Based-Modules .ant-select-single.ant-select-show-arrow .ant-select-selection-item, .ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+  padding-right: 18px;
+font-size: 14px;
+font-family:'NunitoSans SemiBold';
+color: #707070;
+}
+
+
+.Promitons-Delete-Incons
+{
+    width: 27px;
+    height: 20px;
+    object-fit: contain;
+    margin-left: 5px;
+}
+.Promtions-PLan-Images
+{
+    width: 14px;
+    height: 14px;
+}
+.footer-styling
+{
+    margin: 0px 0px 12px 0px;
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 12px;
+    line-height: 1.33;
+    color: #000;
+}
+.Promotions-Based-Modules .ant-input-affix-wrapper {
+    position: relative;
+    display: inline-block;
+    min-width: 0;
+    width: 179px !important;
+    height: 40px !important;
+    margin: 0px 20px 0px 619px !important;
+    padding: 9px 10px 9px 12px !important;
+    border-radius: 6px !important;
+    background-color: #fff !important;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    border: 1px solid #fff !important;
+}
+
+.mr-b-23
+{
+    margin-bottom: 23px;
+}
+
+ /* .serach-input .ant-input:placeholder-shown {
+    font-family: 'NunitoSans Regular';
+    font-size: 16px !important;
+    line-height: 1.38 !important;
+    color: #707070 !important;
+    height: 22px !important;
+} */
+
+.Promitons-Serach-Placeholder .ant-input {
+    font-size: 16px;
+    font-family: 'NunitoSans Regular';
+    color: #707070 !important;
+    height: 19px !important;
+    }
+
+
+
+.Promtions-table-management .ant-table-column-sorters {
+    padding: 16px 20px;
+}
+.Promtions-table-management 
+.ant-table-tbody > tr > td, .ant-table tfoot > tr > th, .ant-table tfoot > tr > td {
+    padding: 16px 20px;   
+}
+.Promtions-table-management .ant-table-container table > thead > tr th {
+    border-top-left-radius: 2px;
+    height: 22px;
+    margin: 0 7.2px 16px 20px !important;
+    font-family: 'NunitoSans Bold';
+    font-size: 16px;
+    font-weight: bold;
+    
+    line-height: 1.38;
+   
+    color: #333;
+}
+
+.Promtions-table-management td.ant-table-column-sort {
+    background: white;
+}
+
+
+.Promtions-table-management .ant-table-pagination.ant-pagination {
+    margin-top :10px;
+    margin-bottom: 0px;
+}
+
+.Promtions-table-management .ant-table-thead > tr > th {
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 500;
+   
+    background: white;  
+}
+.Promtions-table-management .ant-table-thead th.ant-table-column-has-sorters:hover {
+    background: white;
+}
+.Promtions-table-management .ant-table-tbody > tr.ant-table-row:hover > td {
+    background: white;
+}
+.Promtions-Page {
+    font-family: 'NunitoSans Bold';
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1.35;
+    color: #000;
+  }

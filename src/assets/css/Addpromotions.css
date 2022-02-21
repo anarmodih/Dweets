@@ -1,0 +1,276 @@
+.Stylingformargin
+{
+    margin-left: 742px;
+    margin-bottom: 20px;
+}
+.mr-bottom-40
+{
+margin-bottom: 40px;
+}
+.mr-b-20
+{
+margin-bottom: 20px;
+}
+.home-Add-Promotions-Page{
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #000;
+    margin-left: 17px;
+    margin-right: 2px;
+}
+.chevron-right-1-Add-Promotions-Page {
+    width: 4px;
+    height: 8px;
+    opacity: 0.5;
+    margin-right: 6px;   
+  }
+.Priceandplan-Add-Promotions-Page
+{
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #000;
+    margin-right: 5px;
+}
+.create-plan-Add-Promotions-Page
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.38;
+    color: #333;
+}
+.Border-div-Add-Promotions-Page
+{
+    width: 100%;
+    height: 1082px;
+   margin: auto;
+    background-color: #fff;
+    margin-bottom: 40px;
+}
+.main-div-class-plan-Add-Promotions-Page
+{
+    margin-left: 125px;
+    margin-right: 125px;
+    padding-top: 50px;
+}
+.Promotions-text
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;  
+    line-height: 1.38;
+    color: #313131;
+    display: block;
+}
+.Date-picker-for-start .ant-picker
+{
+    width: 287px;
+    height: 56px;
+    margin: 12px 20px 0 0;
+    padding: 17px 0px 17px 14px;
+    border-radius: 4px;
+    border: solid 1px #dadada;
+    background-color: #fff;
+    display: inline-block;
+}
+
+.Date-picker-for-start .ant-picker-suffix
+{
+   display:none;
+}
+.Date-picker-for-start .time-date-picker .ant-picker-input > input:placeholder-shown {
+    
+  font-family: 'NunitoSans Regular';
+  font-size: 16px;
+  line-height: 1.38;
+  color: #313131;
+}
+
+.time-date-picker .ant-picker{
+    width: 114px;
+    height: 56px;
+    margin: 12px 0px 0 0;
+    padding: 17px 0px 17px 14px;
+    border-radius: 4px;
+    border: solid 1px #dadada;
+    background-color: #fff;
+    display: inline-block;
+}
+.time-date-picker .ant-picker-suffix
+{
+   display:none;
+}
+.Promotions-Input-Fields .ant-input
+{
+    height: 56px;
+    margin: 12px 0px 40px 0px;
+    padding: 17px 0px 17px 17px;
+    border-radius: 4px;
+    border: solid 1px #dadada;
+    background-color: #fff;
+    width: 420px;
+
+}
+.Promotions-Input-Fields .ant-input:placeholder-shown {
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #707070 !important;
+}
+.hr-styling
+{
+    margin-top: 18px;
+    margin-bottom: 20px;
+    height: 1px;
+    border-radius: 6px;
+    opacity: 0.5;
+    color: #dadada;
+}
+
+.cancel-promotions {
+    width: 60px;
+    height: 27px;
+    font-family: 'NunitoSans Regular';
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5a5a5a;
+  }
+ .Create-button .Button-Created-button
+  {
+    width: 140px;
+    height: 60px;
+   
+    padding: 17px 40px 16px;
+    border-radius: 6px;
+    background-color: #296ce6;
+  
+  }
+   .Create {
+    width: 60px;
+    height: 27px;
+    font-family: 'NunitoSans Bold';
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+.Scope-button-open-all .ant-btn
+{
+    width: 210px;
+    height: 54px;
+    padding: 9px 13px 9px 14px !important;
+    border-radius: 4px !important;
+    background-color: #296ce7 !important;
+    border:none !important;
+}
+.Cancel-Button-Class-Add-promotions .ant-btn
+{
+    width: 140px;
+  height: 60px;
+  margin: 0 20px 0 0;
+  padding: 17px 40px 16px;
+  border-radius: 6px;
+  background-color: #f3f5fa;
+  }
+.mr-top-13
+{
+    margin-top: 13px;
+}
+.Scope-second-button .ant-btn
+{
+    border-radius: 4px !important;
+    width: 210px;
+    height: 54px;
+   
+    padding: 9px 13px 9px 14px !important;
+    border-radius: 2px !important;
+    border: solid 1px #dadada;
+    
+    background-color:white !important;
+}
+.ButtonCreateCancelbuton .ant-btn
+{
+    width: 140px;
+    height: 60px;
+    padding: 17px 40px 16px;
+    border-radius: 6px;
+    background-color: #296ce6;
+}
+.Scope-button-open-all-text
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 18px;
+    font-style: normal;
+    line-height: 1.13;
+    color: #fff;
+}
+.Create-Cancel-button-Styless
+{
+    font-family: 'NunitoSans Regular';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #5a5a5a;
+}
+.Scope-button-open-all-texted
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 18px;
+    font-style: normal;
+    line-height: 1.13;
+    color: black;
+}
+.Create-Cancel-Button-text-style
+{
+    font-family: 'NunitoSans Bold';
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.35;
+    color: #fff;
+}
+.Cancel-button .Button-Cancel{
+    margin-left: 635px;
+    margin-right: 20px; 
+    width: 140px;
+    height: 60px;
+    padding: 17px 40px 16px;
+    border-radius: 6px;
+    background-color: #f3f5fa;
+}
+
+.Cancel-button .Button-Cancel .ant-btn:hover, .ant-btn:focus , .ant-btn:active {
+    background-color: #f3f5fa !important;
+} 
+
+
+.Create-button .Button-Created-button .ant-btn:hover, .ant-btn:focus ,.ant-btn:active  {
+    background-color:#296ce7 !important;
+}
+.footer-styling
+{
+    margin: 0px 0px 12px 0px;
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 12px;
+    line-height: 1.33;
+    color: #000;
+}
+.Add-promotions-Page {
+    font-family: 'NunitoSans Bold';
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1.35;
+    color: #000;
+  }

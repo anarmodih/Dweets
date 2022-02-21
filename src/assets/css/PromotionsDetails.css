@@ -1,0 +1,254 @@
+/* Extra for this page */
+.Background-color-image
+{
+    height: 231px;
+    margin: 0 0 33px 2px;
+    padding: 38px 245px 60px 338px;
+    background-color: #00a4b9;
+    width: 100%;
+}
+.text-target
+{
+      margin: 17px 1px 14px 20px;
+    font-family: 'NunitoSans SemiBold';
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.36;
+    color: #313131;
+}
+.third-for-borders
+{
+    padding-left: 0px;
+}
+.Second-Border-styling
+{
+    border-right: 1px solid #dadada;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.basic-type-text
+{
+   margin: 16px 1px 16px 19px;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #000;
+}
+.value
+{ 
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 1.36;
+}
+.values
+{
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 1.36;
+}
+.text-type
+{
+    margin: 12px 1px 15px 20px;
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 1.36;
+    color: #000;
+}
+.Discount-percentage {
+    margin: 0px 62px 16px 19px;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    display: inline-block;
+    color: #000;
+}
+.text-type-adjustment
+{
+    display: inline-block;
+    margin: 12px 109px 15px 20px;
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 1.36;
+    color: #000;
+}
+.styling-for-borders
+{
+    border-right: 1px solid #dadada;
+    padding-right: 0px;
+    padding-left: 15px;
+}
+    .target {
+        border-bottom: 1px solid #dadada;
+    }
+.open-for-all
+{
+    margin-bottom: 39px;
+    font-family: 'NunitoSans SemiBold';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.33;
+    color: #000;
+}
+.Conditions-text
+{
+    margin-bottom:27px;
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.38;
+    color: #525252;
+}
+.Main-border-form
+{
+    width: 918px;
+    height: 139px;
+    margin: 27px 36px 0 2px;
+    padding: 0 0 1px;
+    border-radius: 4px;
+    border: solid 1px #dadada;
+    background-color: #fff;
+}
+
+.Information-Details-page-promotions {
+    font-family: 'NunitoSans Bold';
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1.35;
+    color: #000;
+  }
+.mr-b-20
+{
+margin-bottom: 20px;
+}
+.home-detailsPromotionsVIew{
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #000;
+    margin-left: 17px;
+    margin-right: 2px;
+}
+.chevron-right-1-detailsPromotionsVIew {
+    width: 4px;
+    height: 8px;   
+    opacity: 0.5;
+    margin-right: 6px;
+  }
+.Priceandplan-detailsPromotionsVIew
+{
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    margin-right: 8px;
+    color: #000;
+}
+
+.Features-Class-Promoitons-Page-name
+{
+    margin: 0 0px 12px 0;
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.38;
+    color: #525252;
+}
+.View-Details-Promtions-Page
+{
+    margin: 46px 0px 12px 0;
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: left;
+    color: #525252;
+}
+.Price-for-Details-page
+{
+    margin: 12px 54px 39px 0;
+    font-family: 'NunitoSans SemiBold';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.33;
+    color: #000;
+}
+.Text-displayong-Page
+{
+    margin: 13px 0 0;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #333;
+}
+
+.upper-clas-Promtions
+{
+    width: 40px;
+    height: 40px;
+    margin: 0 0px 0px 12px;
+    display: inline-block;
+
+}
+.second-clas-Promtions
+{
+    width: 40px;
+    height: 40px;
+    margin: 0 0px 0px 12px;
+   
+    border-radius: 6px;
+    background-color: #f6f6f6;
+    display: inline-block;
+}
+.Create-plan-promtions
+{
+    
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.38;
+    color: #333;
+}
+.View-details-promotiom-page-border
+{
+    width: 100%;
+    height: 850px;
+    padding: 36px 36px 43px 34px;
+    
+    background-color: #fff
+}
+
+.Price-text-View-details-Pages
+{
+    margin: 46px 0px 12px 0;
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;  
+    line-height: 1.38;
+    color: #313131;
+}
+.footer-styling
+{
+    margin: 40px 0px 19px 0px;
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 12px;
+    line-height: 1.33;
+    color: #000;
+}
+.View-details-plna-name {
+    font-family: 'NunitoSans Bold';
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.35;
+    color: #000;
+  }
+
+
+ 

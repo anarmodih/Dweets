@@ -1,0 +1,37 @@
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace ;
+}
+@import './assets/css/bootstrap.min.css';
+@import './assets/css/style.css'; 
+@import './assets/css/login.css';
+@import './assets/css/responsive.css';
+@import './assets/css/Header.css';
+@import './assets/css/reset-password.css';
+@import './assets/css/forgot-password.css';
+/* @import './assets/css/Signup.css'; */
+@import './assets/css/Dashboard.css';
+@import '././assets/css/ClientManagmenet.css';
+@import '././assets/css/Priceandplan.css';
+@import '././assets/css/Addplan.css';
+@import '././assets/css/Viewdetailsplan.css';
+/* @import '././assets/css/Promotions.css';
+@import '././assets/css/PromotionsDetails.css';
+@import '././assets/css/Addpromotions.css'; */
+@import '././assets/css/Reports.css';
+@import '././assets/css/Content.css';
+@import '././assets/css/SuperAdmin.css';
+@import '././assets/css/AddSuperAdmin.css';
+@import '././assets/css/AddClient.css';
+
+

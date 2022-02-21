@@ -1,0 +1,65 @@
+.mr-bottom-23
+{
+margin-bottom: 23px;
+}
+.about-us-content-collpase .ant-collapse
+{
+    background-color: initial;
+    border: 1px solid white !important;
+  
+    position: relative;
+}
+.about-us-content-collpase .ant-collapse > .ant-collapse-item {
+    border-bottom: none;
+}
+
+.about-us-content-collpase .ant-collapse > .ant-collapse-item:last-child, .ant-collapse > .ant-collapse-item:last-child > .ant-collapse-header {
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    color: #333;
+}
+
+.Content-button .Button-Cancel-Content{
+    background-color: #f3f5fa;   
+    margin-left: 889px;
+    margin-right: 20px;
+    width: 102px;
+    height: 48px;
+    padding: 10px 19px 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 15px;
+
+}
+.Cancel-Content {
+    width: 60px;
+    height: 27px;
+    font-family: 'NunitoSans Regular';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #5a5a5a;
+  }
+
+  .Create-button-Content .Button-Create-Content{
+    
+    width: 102px;
+    height: 48px;
+    padding: 10px 32px 15px;
+    border-radius: 6px;
+    background-color: #296ce6;
+    cursor: pointer;
+    margin-top: 15px;
+
+}
+.Create-Content {
+    width: 60px;
+    height: 27px;
+    font-family: 'NunitoSans Regular';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #ffffff;
+  }
+  .cke_resizer_ltr {
+  
+    display: none;
+}

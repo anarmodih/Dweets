@@ -1,0 +1,311 @@
+a:hover {
+    text-decoration: none !important;
+}
+
+.login-card {
+    border: none!important;
+    border-radius: 27.5px;
+    box-shadow: 0 10px 30px 0 rgb(172 168 168 / 43%);
+    overflow: hidden;
+}
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.bgwhitetextblack {
+    background: #fff!important;
+}
+
+.bgwhitetextblack, .textblack {
+    color: #000!important;
+}
+
+.err-message-email-password
+{
+    color: red;
+    margin-bottom: 10px;
+}
+
+.set-loader {
+    position: fixed;
+    z-index: 99999;
+    top: 57%;
+    width: 100%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-align: center;
+    right: 0;
+    stroke: #66b6e0;
+    fill: #66b6e0;
+  }
+  
+.dont-have-account
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #313131;
+    margin-bottom: 22px;    
+}
+
+.login-section-wrappers {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    background-color: #fff;
+}
+.password-input-field-loginpaged .ant-input-suffix {
+    font-size: 18px;
+}
+.brand-wrapper-login {
+    padding-top: 148px;
+    padding-right: 276.5px;
+    padding-left: 110px;
+    padding-bottom: 42px;
+}
+.email-address-input-field-loginpage
+{
+    height: 56px !important;
+   margin-bottom: 6px !important;
+    border-radius: 6px !important; 
+}
+.sigin-button-loginpage
+{
+    width:100%;
+    height: 60px !important;
+    margin-top: 23px;
+    margin-bottom: 24px;
+    padding: 19px 180px 14px 178px;
+    border-radius: 6px !important;
+    background-color: #296ce7 !important;
+}
+.sign-loginpage{
+  
+    font-family: 'NunitoSans SemiBold';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #fff;
+}
+.mrt-3
+{
+    margin-right:-3px !important;
+}
+.forgot-password-text-login a:active{
+    color: #333 !important;
+    cursor: pointer;
+}
+
+.forgot-password-text-login a{
+    color: #333 !important;
+    cursor: pointer;
+}
+
+
+.forgot-password-text-login {
+   
+    font-family: 'NunitoSans Regular';
+    font-size: 14px;
+    line-height: 1.36;
+    color: #333;
+  }
+  
+.password-input-field-loginpage
+{
+    height: 56px !important; 
+    margin-bottom: 12px !important;
+   
+    border-radius: 6px !important;
+}
+
+.password-input-field-loginpaged
+{
+    height: 56px !important; 
+    margin-bottom: 12px !important;
+   
+    border-radius: 6px !important;
+}
+.brand-wrapper-login h1{
+    
+    font-family: 'NunitoSans SemiBold';
+    font-size: 36px;
+    line-height: 1.36;
+    color: #000;
+    margin-bottom: 0px;
+}
+
+.container-button{
+    text-align: center;  
+  
+    
+}
+.form-page-login
+{
+    margin-left:110px;
+    margin-right: 110px;
+}
+.form-page-signup
+{
+    padding-left: 52px;
+    padding-right: 52px;
+    width: 100%;
+}
+.email-address-login
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #313131;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.password-loginpage
+{
+   
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #313131;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.logo-loginpage
+{
+    width: 194px;
+}
+.login-carousel .carousel .thumbs-wrapper {
+    margin: 20px;
+    overflow: hidden;
+    display: none;
+}
+.image-background-color-loginpage
+{
+    background-color: #0055c1;
+    height: 100vh;
+    /* position: fixed; */
+    max-width: 100%;
+    width: 100%;
+}
+.image-scorll-loginpage
+{
+    width: 614.1px !important;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 123px;
+
+}
+.Stay-Organized
+{
+    font-family:'Inter Bold';
+    font-size: 40px;
+    line-height: 1.23;
+    color: #fff;
+    margin-bottom: 23px;
+    margin-top: 29px;
+}
+.Save-time {
+    font-family: 'Inter Regular';
+    font-size: 20px;
+    line-height: 1.5;
+    color: #fff;
+  }
+  .login-carousel .carousel .control-dots {
+    margin: 12px 0 !important;
+  }
+  .tag-login
+  {
+    margin-top: 80px;
+    text-align: start;
+    margin-left: 15px;
+    margin-bottom: 12px;
+    font-family: 'NunitoSans Regular';
+    font-size: 12px;
+    line-height: 1.33;
+    color: #fff;
+  }
+
+  .login-carousel .carousel .control-dots .dot.selected, .carousel .control-dots .dot:active {
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 5px 0 0 !important;
+    width: 24px !important;
+    height: 8px !important;
+    border-radius: 4px !important;
+    background:white !important;
+}
+
+.login-carousel .carousel .control-dots .dot {
+    cursor: pointer;
+    display: inline-block;
+    width: 14px !important;
+    height: 8px !important;
+    margin: 0 5px 0 0 !important;
+    opacity: 0.5;
+    border-radius: 4px !important;
+  }
+
+  .login-carousel .carousel.carousel-slider .control-arrow {
+   display: none;
+   
+}
+.login-carousel .carousel .carousel-status {
+ display: none;
+  
+}
+@media(max-width:1383px)
+{
+    .image-scorll-loginpage {
+     
+        padding-top: 49px;
+        width: 100% !important;
+    }
+    .brand-wrapper-login {
+        padding-top: 42px;
+     }
+}
+
+@media(max-width:1024px)
+{
+    .brand-wrapper-login {
+        padding-right: 10px;
+        padding-left: 10px;
+     }
+     .form-page-login {
+        margin-left:10px;
+        margin-right:10px;
+    }
+    .Stay-Organized {
+        font-size: 25px;
+    }
+    .Save-time {
+        font-size: 16px;
+        }
+    
+}
+@media(max-width:767px)
+{
+
+    .image-background-color-loginpage
+{
+    height: auto;
+  }
+    .sigin-button-loginpage {
+        margin-bottom: 10px !important;
+     }
+
+
+    .image-scorll-loginpage {
+        width: 78% !important;
+        padding-top: 26px;
+    }
+    
+    .brand-wrapper-login {
+        padding-top: 34px;
+     }
+}

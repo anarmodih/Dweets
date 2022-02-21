@@ -1,0 +1,388 @@
+.err-message-email
+{
+color: red;
+margin-bottom: 39px;
+}
+.resize-none
+{
+resize: none;
+}
+.err-msg-category
+{
+    color: red;
+}
+.text-title-description
+{
+    padding: 10px 10px 10px 10px;
+}
+
+
+
+.mr-b-20
+{
+margin-bottom: 20px;
+}
+.Client-plan-tags
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;  
+    line-height: 1.38;
+    color: #313131;
+}
+.Home-Add-Plan-Client{
+  
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #000;
+    margin-left: 17px;
+    margin-right: 2px;
+}
+.chevron-right-1-Plan-Client {
+    width: 4px;
+    height: 8px;
+    
+    opacity: 0.5;
+    margin-right: 6px;
+   
+  }
+.Price-Plan-Date-Client
+{
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #000;
+    margin-right: 7px;
+}
+.Add-Plan-Client-Add-Create
+{
+    
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.38;
+    color: #333;
+}
+.Client-Add-Plan
+{
+    width: 100%;
+    height: auto;
+   margin: auto;
+    background-color: #fff;
+    margin-bottom: 40px;
+}
+.Client-Add-plan-Tag
+{
+    margin-left:235px;
+    margin-right: 235px;
+    padding-top:44px;
+}
+.Price-text-plan
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;  
+    line-height: 1.38;
+    color: #313131;
+}
+
+.Client-input-fileds-plans-pages .ant-input
+{
+margin-top:12px !important;
+margin-bottom: 9px !important;
+
+height: 56px !important;
+  padding: 17px 0px 17px 19px !important;
+  border-radius: 4px !important;
+  border: solid 1px #dadada !important;
+  background-color: #fff;
+
+}
+.Client-input-fileds-plans-pages .ant-input:placeholder-shown {
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    /* color: #707070 !important; */
+}
+
+.pass-input-fileds .ant-input
+{
+height: 56px !important;
+
+}
+.pass-input-fileds .ant-input:placeholder-shown {
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    /* color: #707070 !important; */
+}
+.hr-styling
+{
+    margin-top: 18px;
+    margin-bottom: 20px;
+  
+    height: 1px;
+  
+    border-radius: 6px;
+   
+    opacity: 0.5;
+    color: #dadada;
+}
+   .Client-Add-Create {
+    width: 60px;
+    height: 27px;
+    font-family: 'NunitoSans Bold';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #fff;
+  }
+
+.Client-Cancel-button .Button-Client-Cancel{
+    margin-left:705px;
+    margin-right: 20px; 
+    width: 140px;
+    height: 60px;
+    padding: 17px 40px 16px;
+    border-radius: 6px;
+    background-color: #f3f5fa;
+    cursor: pointer;
+}
+.Client-Cancel {
+    width: 60px;
+    height: 27px;
+    font-family: 'NunitoSans Regular';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #5a5a5a;
+  }
+
+  .Client-Add-Create-button .Button-Client-Add-Create{
+    width: 140px;
+    height: 60px;
+    padding: 17px 40px 16px;
+    border-radius: 6px;
+    background-color:#296ce6;
+    cursor: pointer;
+}
+.Client-Add-Client-Add-Create {
+    width: 60px;
+    height: 27px;
+    font-family: 'NunitoSans Regular';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #ffffff;
+  }
+
+.footer-styling
+{
+    margin: 0px 0px 12px 0px;
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 12px;
+    line-height: 1.33;
+    color: #000;
+}
+.Client-Add-Plan-pages {
+    font-family: 'NunitoSans Bold';
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1.35;
+    color: #000;
+  }
+
+  .Date-Picker-Client .ant-picker
+{
+   
+    height: 56px;
+    width: 100%;
+    margin: 12px 20px 0 0;
+    padding: 17px 0px 17px 14px;
+    border-radius: 4px;
+    border: solid 1px #dadada;
+    background-color: #fff;
+    display: inline-block;
+}
+
+.Date-Picker-Client .ant-picker-suffix
+{
+   display:none;
+}
+.Date-Picker-Client .time-date-picker .ant-picker-input > input:placeholder-shown {
+    
+  font-family: 'NunitoSans Regular';
+  font-size: 16px;
+  line-height: 1.38;
+  color: #313131;
+}
+.mr-top-39
+{
+margin-top:39px;
+display: inline-block;
+}
+.pass-input-fileds
+.ant-input-suffix {
+    font-size: 18px;
+}
+
+.mr-bottom-17
+{
+    margin-bottom: 17px;
+}
+.mr-bottom-12
+{
+    margin-bottom: 12px !important;
+    display: inline-block;
+}
+
+.mr-top-12
+{
+margin-top:12px;
+}
+
+/* ANTD SELECT OPTIONS */
+
+.selectFroCoutnry .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    height: 56px;
+    padding: 15px 17px;
+}
+.selectFroCoutnry 
+.ant-select-single:not(.ant-select-customize-input) .ant-select-selector .ant-select-selection-search-input {
+    height: 54px;
+}
+
+.selectFroCoutnry .ant-select-single.ant-select-show-arrow .ant-select-selection-item, 
+.ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+    padding-right: 18px;
+    font-size: 16px;
+    font-family: 'NunitoSans Regular';
+     color: rgba(0, 0, 0, 0.85);;
+    /* opacity: 0.4; */ 
+}
+
+.selectFroCoutnry.ant-select-single.ant-select-show-arrow .ant-select-selection-item, .ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+    padding-right: 18px;
+    font-size: 16px;
+    color: currentcolor;
+    opacity: 0.3;
+
+}
+
+.selectFroCoutnry .ant-select-single.ant-select-show-arrow 
+.ant-select-selection-item, .ant-select-single.ant-select-show-arrow 
+.ant-select-selection-placeholder {
+    /* font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: black;
+    opacity: 0.5; */
+   
+}
+
+
+/* For normal select */
+
+/* .selectFroCoutnry .css-yk16xz-control
+{
+    height: 56px;
+    padding: 0px 7px;
+    border: solid 1px #dadada !important;
+}
+
+.selectFroCoutnry .css-1pahdxg-control{
+    height: 56px !important;
+    padding: 0px 7px !important;
+    border: solid 1px #dadada !important;
+}
+
+.selectFroCoutnry .css-1wa3eu0-placeholder
+{
+    padding-right: 18px;
+    font-size: 16px;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    color: #707070 !important;
+    opacity: 0.3;
+}
+.selectFroCoutnry .css-1okebmr-indicatorSeparator {
+display: none;
+} */
+
+/* .SuperMethod .Super-Create-button .Button-Super-Create , .ant-btn:hover {
+  
+    background-color: #296ce6 !important;
+    cursor: pointer;
+}  */
+.Super-Create-button .Button-Super-Create{
+   
+    border-radius: 6px;
+    background-color: #296ce6;
+    cursor: pointer;
+    /* margin-top: 22px; */
+    display: inline;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+.Super-Create {
+    width: 60px;
+    height: 27px;
+    font-family: 'NunitoSans Regular';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #ffffff;
+  }
+  .Super-Price-First
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;  
+    line-height: 1.38;
+    color: #313131;
+}
+.mr-top-5
+{
+margin-top:5px;
+}
+.locationautocomplete
+{
+    width: 100%;
+    height: 56px;
+    margin-top: 10px;
+    padding-left: 12px;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    border: solid 1px #dadada !important;
+    background-color: #fff;
+}
+.locationautocomplete:focus-visible
+{
+    outline:solid 1px #dadada;
+}
+
+.locationautocomplete::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    font-family: 'NunitoSans Regular';
+  font-size: 16px;
+  line-height: 1.38;
+opacity: 0.5;
+}
+.Profile-pictyue
+{
+    margin-top: 0px;
+    display: inline-block;
+}
+.phoneinputfield .react-tel-input .form-control {
+    height: 56px;
+    width: 100%;
+  }
+  .mb-20
+  {
+    margin-bottom: 20px;
+  }
+  .mt-9
+  {
+      margin-top:9px;
+  }

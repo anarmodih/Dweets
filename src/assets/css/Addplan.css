@@ -1,0 +1,316 @@
+.Add-Paln-Colum
+{
+    padding-right: 29px;
+}
+.mr-b-20
+{
+margin-bottom: 20px;
+}
+.Home-Add-Plan{
+  
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #000;
+    margin-left: 17px;
+    margin-right: 2px;
+}
+.chevron-right-1-Plan {
+    width: 4px;
+    height: 8px;
+    
+    opacity: 0.5;
+    margin-right: 6px;
+   
+  }
+.Price-Plan-Date
+{
+
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #000;
+}
+.Add-Plan-create
+{
+    
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.38;
+    color: #333;
+}
+.Border-Div-Add-plan
+{
+    width: 100%;
+    height: 1082px;
+   margin: auto;
+    background-color: #fff;
+    margin-bottom: 40px;
+}
+.Plan-Add-Main
+{
+    margin-left:235px;
+    margin-right: 235px;
+    padding-top:44px;
+}
+.Price-text-plan
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;  
+    line-height: 1.38;
+    color: #313131;
+}
+
+.price-input-filed .ant-input
+{
+margin-top:12px !important;
+margin-bottom: 39px !important;
+
+height: 56px !important;
+  padding: 17px 594px 17px 19px !important;
+  border-radius: 4px !important;
+  border: solid 1px #dadada !important;
+  background-color: #fff;
+
+}
+.price-input-filed .ant-input:placeholder-shown {
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #707070 !important;
+}
+
+.schedule
+{
+        font-family: 'NunitoSans Regular';
+        font-size: 16px;
+        line-height: 1.38;
+        color: #000;
+}
+
+.Main-checkboxed-style .ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #296ce6;
+    border-color: #296ce6;
+}
+
+
+.Main-checkboxed-style .ant-checkbox-inner {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 24px;
+    height: 24px;
+    direction: ltr;
+    background-color: #fff;
+    border: 1px solid #d9d9d9;
+    border-radius: 2px;
+    border-collapse: separate;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.hr-styling
+{
+    margin-top: 18px;
+    margin-bottom: 20px;
+  
+    height: 1px;
+  
+    border-radius: 6px;
+   
+    opacity: 0.5;
+    color: #dadada;
+}
+   .Create {
+    width: 60px;
+    height: 27px;
+    font-family: 'NunitoSans Bold';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #fff;
+  }
+  
+  
+.Main-checkboxed-style .ant-checkbox-inner::after {
+  
+    top: 45%;
+    left: 21%;
+   
+}
+
+
+.main-schedule
+{
+    
+    margin-bottom: 22px !important;
+}
+.descritption-input-filed .ant-input
+{
+margin-top:12px !important;
+margin-bottom: 50px !important;
+
+height: 100px !important;
+
+  border-radius: 4px !important;
+  border: solid 1px #dadada !important;
+  background-color: #fff;
+
+}
+.descritption-input-filed .ant-input:placeholder-shown {
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    padding-top:17px;
+    padding-left:19px;
+    padding-bottom: 61px;
+    color: #707070 !important;
+    
+}
+.sectionsprices
+{
+    font-family: 'NunitoSans SemiBold';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.38;
+    color: #313131;
+}
+.Enter-price .ant-input-affix-wrapper
+{
+margin-top:12px !important;
+margin-bottom: 44px !important; 
+ 
+height: 56px !important; 
+padding: 10px 10px 10px 14px !important;
+  border-radius: 4px !important;
+  border: solid 1px #dadada !important;
+  background-color: #fff; 
+
+}
+.Enter-price .ant-input:placeholder-shown {
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #707070 !important;
+}
+.Enter-priceed .ant-input
+{
+margin-top:12px !important;
+margin-bottom: 44px !important; 
+ 
+height: 56px !important; 
+padding: 10px 10px 10px 14px !important;
+  border-radius: 4px !important;
+  border: solid 1px #dadada !important;
+  background-color: #fff; 
+}
+.Enter-priceed .ant-input:placeholder-shown
+{
+    font-family: 'NunitoSans Regular';
+    font-size: 16px;
+    line-height: 1.38;
+    color: #707070 !important;
+}
+.mo-button .ant-btn
+{
+    width: 50px !important;
+    height: 36px !important;
+    margin: 0 8px 0 0 !important;
+    padding: 9px 13px 9px 14px !important;
+    border-radius: 2px !important;
+    background-color: #296ce7 !important;
+    border:none !important;
+}
+
+.mo-buttonss .ant-btn
+{
+    border-radius: 2px !important;
+    width: 50px !important;
+    height: 36px !important;
+    margin: 0 8px 0 0 !important;
+    padding: 9px 13px 9px 14px !important;
+    border-radius: 2px !important;
+    border:none !important;
+    background-color: #f3f5fa !important;
+}
+.mo-button-text
+{
+    font-family: 'HelveticaNeue';
+    font-size: 16px;
+    font-style: normal;
+    line-height: 1.13;
+    color: #fff;
+}
+.mo-button-texted
+{
+    font-family: 'HelveticaNeue';
+    font-size: 16px;
+    font-style: normal;
+    line-height: 1.13;
+    color: black;
+}
+
+.Cancel-button .Button-Cancel{
+    margin-left: 635px;
+    margin-right: 20px; 
+    width: 140px;
+    height: 60px;
+    padding: 17px 40px 16px;
+    border-radius: 6px;
+    background-color: #f3f5fa;
+    cursor: pointer;
+}
+.Cancel {
+    width: 60px;
+    height: 27px;
+    font-family: 'NunitoSans Regular';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #5a5a5a;
+  }
+
+  .Create-button .Button-Create{
+    width: 140px;
+    height: 60px;
+    padding: 17px 40px 16px;
+    border-radius: 6px;
+    background-color:#296ce6;
+    cursor: pointer;
+}
+.Create {
+    width: 60px;
+    height: 27px;
+    font-family: 'NunitoSans Regular';
+    font-size: 20px;
+    line-height: 1.35;
+    color: #ffffff;
+  }
+.features
+{
+    font-family: 'HelveticaNeueMedium';
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 29px;
+    line-height: 1.21;
+    color: #000;
+}
+.footer-styling
+{
+    margin: 0px 0px 12px 0px;
+    opacity: 0.5;
+    font-family: 'NunitoSans Regular';
+    font-size: 12px;
+    line-height: 1.33;
+    color: #000;
+}
+.Plan-add-pages {
+    font-family: 'NunitoSans Bold';
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1.35;
+    color: #000;
+  }
