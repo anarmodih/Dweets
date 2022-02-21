@@ -3,7 +3,6 @@
   "name": "Dweets",
   "icons":[
     {
-      "src":"./assets/logo.png",
       "sizes":"100x100",
       "type":"images/png"
     }
